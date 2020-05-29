@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flogging.Core", "Flogging.Core\Flogging.Core.csproj", "{39FD36EF-CD94-46E5-81A3-FF685D07E82F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloggingConsole", "FloggingConsole\FloggingConsole.csproj", "{5D2CC6DD-CF42-4AB8-B0DE-15E34DB5CE59}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39FD36EF-CD94-46E5-81A3-FF685D07E82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FD36EF-CD94-46E5-81A3-FF685D07E82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FD36EF-CD94-46E5-81A3-FF685D07E82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FD36EF-CD94-46E5-81A3-FF685D07E82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D2CC6DD-CF42-4AB8-B0DE-15E34DB5CE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2CC6DD-CF42-4AB8-B0DE-15E34DB5CE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2CC6DD-CF42-4AB8-B0DE-15E34DB5CE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2CC6DD-CF42-4AB8-B0DE-15E34DB5CE59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

@@ -1,0 +1,1 @@
+2020-05-29 17:52:59.688 +03:00 [INF] {"Timestamp":"2020-05-29T17:52:26.4383619+03:00","Message":"used flogging console","Product":"Flogger","Layer":"Job","Location":"FloggerConsole","Hostname":"LP902703","UserId":null,"UserName":"902703","CustomerId":0,"CustomerName":null,"CorrelationId":null,"ElapsedMilliseconds":null,"AdditionalInfo":{},"Exception":null,"$type":"FlogDetail"}
